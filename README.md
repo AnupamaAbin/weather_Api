@@ -18,6 +18,13 @@ For development, you will only need Node.js and a node global package, installed
     $ git clone https://github.com/AnupamaAbin/weather_Api.git
     $ cd weather_Api
     $ npm install
+    $ npm install express
+    $ npm install --save requests
+    $ npm install mongoose
+    $ npm install body-parser
+    $ npm install express-jwt
+    ** DATABASE : weathermap
+    ** COLLECTION : weatherdata
 
 ## How to test Api
 
